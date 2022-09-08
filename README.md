@@ -1,8 +1,9 @@
-### Olá, que bom ter você por aqui 👋
+### Olá 👋, que bom ter você por aqui! Acabei de entrar no mundo da programação e aqui voçê pode ver um pouco da minha evololução (●'◡'●)
 
 
 - 🌱  Estou aprendendo a desenvolver em Back e Front-End no Bootcamp da Generation Brasil...
-- 😄 Pronomes: ela/dela
+
+- 👩🏽‍🦱 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/Dislani">
