@@ -1,7 +1,9 @@
 ### Olá 👋, que bom ter você por aqui! Acabei de entrar no mundo da programação e aqui voçê pode ver um pouco da minha evololução (●'◡'●)
 
 
-- 🌱  Estou aprendendo a desenvolver em Back e Front-End no Bootcamp da Generation Brasil...
+- 🌱  Sou estudante de Análise e Desenvolvimento de Sistemas.
+
+- 🌱 Dedico meu tempo livre estudando o desenvolvimento web com tecnologias voltadas para a parte de FrontEnd.
 
 - 👩🏽‍🦱 Pronomes: ela/dela
 
