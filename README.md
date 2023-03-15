@@ -26,9 +26,6 @@
 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  - 🎓📚 Ao longo de 3 meses participando do bootcamp da Generation, tive a oportunidade de desenvolver habilidades tecnicas e também comportamentais, conheça abaixo a estrutura curricular do Bootcamp ...
-  <img alingn="center" alt="Certificado_Generation" height="600em" width="1000" src="https://i.imgur.com/GrVbbsU.jpg">
 
 </div>
 
