@@ -3,8 +3,6 @@
 
 - 🌱  Sou estudante de Análise e Desenvolvimento de Sistemas.
 
-- 🌱 Dedico meu tempo livre estudando o desenvolvimento web com tecnologias voltadas para a parte de FrontEnd.
-
 - 👩🏽‍🦱 Pronomes: ela/dela
 
 
